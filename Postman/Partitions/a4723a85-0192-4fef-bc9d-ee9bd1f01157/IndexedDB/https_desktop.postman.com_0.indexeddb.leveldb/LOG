@@ -1,0 +1,12 @@
+2024/04/03-14:00:45.206 1178 Reusing MANIFEST /home/Frillion/.config/Postman/Partitions/a4723a85-0192-4fef-bc9d-ee9bd1f01157/IndexedDB/https_desktop.postman.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/04/03-14:00:45.206 1178 Recovering log #23
+2024/04/03-14:00:45.215 1178 Reusing old log /home/Frillion/.config/Postman/Partitions/a4723a85-0192-4fef-bc9d-ee9bd1f01157/IndexedDB/https_desktop.postman.com_0.indexeddb.leveldb/000023.log 
+2024/04/03-14:07:04.301 12ef Level-0 table #28: started
+2024/04/03-14:07:04.314 12ef Level-0 table #28: 1099773 bytes OK
+2024/04/03-14:07:04.319 12ef Delete type=0 #23
+2024/04/03-14:07:14.919 12ef Compacting 1@1 + 1@2 files
+2024/04/03-14:07:14.927 12ef Generated table #29@1: 781 keys, 28946 bytes
+2024/04/03-14:07:14.927 12ef Compacted 1@1 + 1@2 files => 28946 bytes
+2024/04/03-14:07:14.931 12ef compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/04/03-14:07:14.931 12ef Delete type=2 #28
+2024/04/03-14:07:14.931 12ef Delete type=2 #25

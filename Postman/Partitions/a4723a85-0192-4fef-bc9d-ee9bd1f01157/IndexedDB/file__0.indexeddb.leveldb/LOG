@@ -1,0 +1,6 @@
+2024/02/21-20:19:38.197 54c0 Creating DB /home/Frillion/.config/Postman/Partitions/a4723a85-0192-4fef-bc9d-ee9bd1f01157/IndexedDB/file__0.indexeddb.leveldb since it was missing.
+2024/02/21-20:19:38.207 54c0 Reusing MANIFEST /home/Frillion/.config/Postman/Partitions/a4723a85-0192-4fef-bc9d-ee9bd1f01157/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2024/02/21-20:19:38.214 54c0 Level-0 table #5: started
+2024/02/21-20:19:38.216 54c0 Level-0 table #5: 492 bytes OK
+2024/02/21-20:19:38.220 54c0 Delete type=0 #3
+2024/02/21-20:19:38.220 54c0 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

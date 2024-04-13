@@ -1,0 +1,9 @@
+2024/03/12-19:36:27.220 4f59 Reusing MANIFEST /home/Frillion/.config/Postman/Partitions/a4723a85-0192-4fef-bc9d-ee9bd1f01157/Local Storage/leveldb/MANIFEST-000001
+2024/03/12-19:36:27.220 4f59 Recovering log #16
+2024/03/12-19:36:27.220 4f59 Reusing old log /home/Frillion/.config/Postman/Partitions/a4723a85-0192-4fef-bc9d-ee9bd1f01157/Local Storage/leveldb/000016.log 
+2024/03/12-19:45:27.351 51e0 Level-0 table #21: started
+2024/03/12-19:45:27.355 51e0 Level-0 table #21: 19674 bytes OK
+2024/03/12-19:45:27.359 51e0 Delete type=0 #16
+2024/03/12-20:08:27.353 5939 Level-0 table #23: started
+2024/03/12-20:08:27.428 5939 Level-0 table #23: 22180 bytes OK
+2024/03/12-20:08:27.432 5939 Delete type=0 #20
