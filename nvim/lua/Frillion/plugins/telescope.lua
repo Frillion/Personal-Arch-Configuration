@@ -8,6 +8,7 @@ return {
             build = "make"
         },
         "nvim-tree/nvim-web-devicons",
+        "BurntSushi/ripgrep",
     },
     config = function()
         local telescope = require("telescope")
