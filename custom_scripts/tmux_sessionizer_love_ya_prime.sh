@@ -3,7 +3,7 @@
 if [[ $# -eq 1 ]]; then
     selected=$1
 else
-    selected=$(find ~/Projects/exersices ~/Projects/personal ~/Projects/work -mindepth 1 -maxdepth 1 -type d | fzf)
+    selected=$(find ~/.config ~/Projects/exersices ~/Projects/personal ~/Projects/work -mindepth 1 -maxdepth 1 -type d | fzf)
 fi
 
 if [[ -z $selected ]]; then
@@ -13,7 +13,7 @@ fi
 selected_name=$(basename $selected | tr . _)
 tmux_id=$(pgrep tmux)
 
-if [[ -z tmux_id ]]; then
+if [[ -z $TMUX ]] && [[ -z tmux_id ]]; then
     tmux new-session -s $selected_name -c $selected
     exit 0
 fi  
